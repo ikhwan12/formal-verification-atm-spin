@@ -1,0 +1,5 @@
+tl_spin: expected ')', saw '
+'
+tl_spin: !([](receipt_printed  ->  <>card_ejected)
+ )
+---------------------------------------------------^

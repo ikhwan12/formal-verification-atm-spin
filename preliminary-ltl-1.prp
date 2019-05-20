@@ -1,0 +1,1 @@
+[](cash_dispensed && !continue_transaction  ->   <>(receipt_printed && card_ejected)) 
